@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/sampleltxproject">
+        <file>Images/Flight.png</file>
+    </qresource>
+</RCC>
